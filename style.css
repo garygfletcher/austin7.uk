@@ -118,10 +118,6 @@ h2 { font-size: 1.7rem; margin-bottom: 28px; color: var(--green-dark); }
 .contact h2 { color: #fff; }
 .contact-buttons { display: flex; gap: 16px; justify-content: center; margin-top: 24px; flex-wrap: wrap; }
 .cta.whatsapp { background: #25D366; color: #07310f; }
-.cta.email { background: transparent; border: 1.5px solid var(--gold); color: var(--gold); }
-.email-locked { cursor: pointer; }
-.email-captcha { display: flex; justify-content: center; margin-top: 20px; }
-.email-captcha:empty { margin-top: 0; }
 
 .site-footer { text-align: center; padding: 24px; color: var(--muted); font-family: "Helvetica Neue", Arial, sans-serif; font-size: .85rem; }
 
